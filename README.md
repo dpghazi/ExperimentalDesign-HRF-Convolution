@@ -1,4 +1,4 @@
-# ExperimentalDesign HRF Convolution
+# Experimental Design HRF Convolution
 - **Neuroscience / Neuroimaging concepts**
     * Experimental Design 
     * Block Design vs. Event-Related Design
