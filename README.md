@@ -1,10 +1,10 @@
 # Experimental Design HRF Convolution
-- **Neuroscience / Neuroimaging concepts**
+- **Neuroscience / Neuroimaging Concepts**
     * Experimental Design 
     * Block Design vs. Event-Related Design
     * Block Design Analysis (Average Response)
     * Accounting for the fMRI hemodynamic response function (HRF)
-- **Datascience / Coding concepts**
+- **Data Science / Coding Concepts**
     * Impulse Response Functions
     * Vectors and Matrices
     * Array Preallocation
